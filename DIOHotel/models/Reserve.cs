@@ -45,5 +45,13 @@ namespace DIOHotel.models
                 return dailyValue * days;
             }
         }
+
+        public void CapacityRoom(int room, int people)
+        {
+            if(people > room)
+            {
+                throw new ArgumentException("Many people to the suite");
+            }
+        }
     }
 }
