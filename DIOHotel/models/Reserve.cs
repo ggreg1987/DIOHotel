@@ -33,5 +33,17 @@ namespace DIOHotel.models
         {
             return Clients;
         }
+
+        public decimal TotalDaily(int days, decimal dailyValue)
+        {
+            if(days > 10)
+            {
+                return (days * dailyValue) - (days * dailyValue / 10);
+            } 
+            else
+            {
+                return dailyValue * days;
+            }
+        }
     }
 }
