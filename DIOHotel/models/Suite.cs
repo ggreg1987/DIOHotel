@@ -20,5 +20,12 @@ namespace DIOHotel.models
             Capacity = capacity;
             DailyValue = dailyValue;
         }
+
+        public Suite SaveSuite(Suite suite)
+        {
+            return new Suite(suite.SuiteName,suite.Capacity,suite.DailyValue);
+        }
     }
+
+   
 }
