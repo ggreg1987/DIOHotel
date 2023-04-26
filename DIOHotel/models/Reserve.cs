@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DIOHotel
+namespace DIOHotel.models
 {
     internal class Reserve
     {
@@ -13,7 +13,7 @@ namespace DIOHotel
         public Suite? Suite;
         public int ReservedDays { get; set; }
 
-        public Reserve() {}
+        public Reserve() { }
 
         public Reserve(List<Client>? clients, Suite? suite, int reservedDays)
         {
@@ -21,5 +21,7 @@ namespace DIOHotel
             Suite = suite;
             ReservedDays = reservedDays;
         }
+
+
     }
 }

@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DIOHotel
+namespace DIOHotel.models
 {
     internal class Client : Person
     {
         private int _credCard;
 
-        public Client() {}
+        public Client() { }
 
-        public Client(string? name, string? lastName ,int credCard)
-            : base(name,lastName)
+        public Client(string? name, string? lastName, int credCard)
+            : base(name, lastName)
         {
             _credCard = credCard;
         }
@@ -22,10 +22,11 @@ namespace DIOHotel
         {
             get
             {
-                if(_credCard == 1)
+                if (_credCard == 1)
                 {
                     return "VISA";
-                } else
+                }
+                else
                 {
                     return "MASTER";
                 }

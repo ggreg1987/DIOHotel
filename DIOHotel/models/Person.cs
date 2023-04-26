@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DIOHotel
+namespace DIOHotel.models
 {
     internal class Person
     {
         public string? Name { get; set; }
         public string? LastName { get; set; }
 
-        public Person() {}
+        public Person() { }
 
         public Person(string? name, string? lastName)
         {
