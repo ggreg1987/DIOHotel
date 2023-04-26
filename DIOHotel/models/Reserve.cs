@@ -22,6 +22,11 @@ namespace DIOHotel.models
             ReservedDays = reservedDays;
         }
 
-
+        public Client SaveClient(Client client)
+        {
+            var clients = new List<Client>();
+            clients.Add(client);
+            return client;
+        }
     }
 }
