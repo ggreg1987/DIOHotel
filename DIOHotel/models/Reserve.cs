@@ -28,5 +28,10 @@ namespace DIOHotel.models
             clients.Add(client);
             return client;
         }
+
+        public List<Client>? AllClient()
+        {
+            return Clients;
+        }
     }
 }
