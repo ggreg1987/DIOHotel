@@ -12,7 +12,8 @@ namespace DIOHotel
 
         public Client() {}
 
-        public Client(int credCard)
+        public Client(string? name, string? lastName ,int credCard)
+            : base(name,lastName)
         {
             _credCard = credCard;
         }
