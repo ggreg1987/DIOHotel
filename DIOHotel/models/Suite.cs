@@ -11,7 +11,7 @@ namespace DIOHotel.models
         private Suite suite;
 
         public string? SuiteName { get; set; }
-        public string? Capacity { get; set; }
+        public int Capacity { get; set; }
         public decimal DailyValue { get; set; }
 
         public Suite() { }
