@@ -9,6 +9,10 @@ Console.WriteLine("1 - Add a new client");
 Console.WriteLine("2 - Suite \n");
 
 int add = int.Parse(Console.ReadLine());
+if(add != 1 &&  add != 2)
+{
+    throw new Exception("Press 1 or 2");
+}
 
 
 add = 1;
