@@ -36,7 +36,7 @@ if (add == 1)
         reserve.SaveClient(client);
 
         Console.WriteLine("1 - Add a new client");
-        Console.WriteLine("2 - Cancel \n");
+        Console.WriteLine("2 - Suite \n");
         add = int.Parse(Console.ReadLine());
     }
 

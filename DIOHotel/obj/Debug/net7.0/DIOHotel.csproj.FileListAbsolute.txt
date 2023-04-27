@@ -3,3 +3,13 @@ C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debu
 C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\DIOHotel.AssemblyInfoInputs.cache
 C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\DIOHotel.AssemblyInfo.cs
 C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\DIOHotel.csproj.CoreCompileInputs.cache
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\bin\Debug\net7.0\DIOHotel.exe
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\bin\Debug\net7.0\DIOHotel.deps.json
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\bin\Debug\net7.0\DIOHotel.runtimeconfig.json
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\bin\Debug\net7.0\DIOHotel.dll
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\bin\Debug\net7.0\DIOHotel.pdb
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\DIOHotel.dll
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\refint\DIOHotel.dll
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\DIOHotel.pdb
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\DIOHotel.genruntimeconfig.cache
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\ref\DIOHotel.dll
