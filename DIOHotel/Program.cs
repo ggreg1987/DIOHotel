@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
+using System.Collections.Generic;
 
 Console.WriteLine("---------Wellcome to DIOHOTEL---------- \n");
 
@@ -61,9 +62,10 @@ if (add == 1)
 
     Console.WriteLine("Days \n");
     reserve.ReservedDays = int.Parse(Console.ReadLine());
+    var peoples = reserve.AllClient();
 
-    var allClients = 0;
-    for (int i = 0; i < reserve.AllClient().Count; i++)
+    int allClients = 0;
+    for (int i = 0; i < peoples.Count; i++)
     {
         allClients++;
     }
