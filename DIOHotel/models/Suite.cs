@@ -21,7 +21,7 @@ namespace DIOHotel.models
             this.suite = suite;
         }
 
-        public Suite(string? suiteName, string? capacity, decimal dailyValue)
+        public Suite(string? suiteName, int capacity, decimal dailyValue)
         {
             SuiteName = suiteName;
             Capacity = capacity;
