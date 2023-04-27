@@ -12,6 +12,9 @@ namespace DIOHotel.models
 
         public Client() { }
 
+        public Client(string? name, string? lastName)
+            : base(name, lastName) { }
+
         public Client(string? name, string? lastName, int credCard)
             : base(name, lastName)
         {
