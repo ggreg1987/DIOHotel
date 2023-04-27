@@ -1,0 +1,5 @@
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\DIOHotel.csproj.AssemblyReference.cache
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\DIOHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\DIOHotel.AssemblyInfoInputs.cache
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\DIOHotel.AssemblyInfo.cs
+C:\Users\ggreg\Documents\Estudos\DIO\CRM\projetoHotel\DIOHotel\DIOHotel\obj\Debug\net7.0\DIOHotel.csproj.CoreCompileInputs.cache

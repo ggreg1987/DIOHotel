@@ -1,4 +1,9 @@
-﻿Console.WriteLine("---------Wellcome to DIOHOTEL---------- \n");
+﻿using DIOHotel.models;
+using System.Diagnostics;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
+
+Console.WriteLine("---------Wellcome to DIOHOTEL---------- \n");
 
 Console.WriteLine("1 - Add a new client");
 Console.WriteLine("2 - Suite \n");
