@@ -33,7 +33,17 @@ namespace DIOHotel.models
         {
             return new Suite(suite);
         }
-    }
+
+        public string ShowSuite
+        {
+            get
+            {
+                return $"Name: {SuiteName} \n" +
+                    $"Capacity: {Capacity} \n" +
+                    $"Daily: {DailyValue} \n" +
+                    $"--------------------------------------------------";
+            }
+        }
 
    
 }
